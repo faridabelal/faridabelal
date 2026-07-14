@@ -12,11 +12,17 @@ I'm a Computer Science graduate interested in software engineering, full-stack w
 
 If I had to pick one project that best represents me as a developer, it'd be **Inspira**.
 
-I wanted to make discovering movies, TV shows, books, and music feel as natural as asking a friend for recommendations. Instead of clicking through endless filters, you can simply type something like:
+Inspira is a full-stack recommendation platform that helps people discover movies, TV shows, books, and music through natural language. Instead of searching each platform separately or scrolling through endless lists, users can simply describe what they're looking for in their own words.
 
-> *"Recommend movies like La La Land, but happier."*
+For example:
 
-Building Inspira taught me what it really means to build a full-stack application. From designing the database and backend logic to creating a clean, intuitive interface and integrating AI-powered recommendations, it challenged me at every step—and that's exactly why I'm so proud of it.
+> *"movie like The Intern."*
+>
+> *"books with the same vibe as Little Women."*
+
+Using AI and multiple media APIs, Inspira understands the request and recommends content across different categories—all in one place.
+
+Building Inspira gave me experience designing a complete full-stack application, integrating REST APIs, and creating an interface that makes discovering content feel simple and intuitive.
 
 **Built with:** PHP • MySQL • JavaScript • HTML/CSS • REST APIs
 
