@@ -18,7 +18,7 @@ I wanted to make discovering movies, TV shows, books, and music feel as natural 
 
 Building Inspira taught me what it really means to build a full-stack application. From designing the database and backend logic to creating a clean, intuitive interface and integrating AI-powered recommendations, it challenged me at every step—and that's exactly why I'm so proud of it.
 
-**Built with:** PHP • MySQL • JavaScript • Bootstrap • HTML/CSS
+**Built with:** PHP • MySQL • JavaScript • HTML/CSS • REST APIs
 
 🔗 **Live Demo:** https://faridabelal-portfolio.com
 
