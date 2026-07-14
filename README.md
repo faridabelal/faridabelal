@@ -51,5 +51,11 @@ React • Bootstrap • MySQL • Git • Azure • Microsoft 365 • NinjaOne �
 
 ## 📫 Let's connect
 
+🌐 **Portfolio**  
+https://faridabelal-portfolio.com
+
+💼 **LinkedIn**  
+https://linkedin.com/in/faridabelal
+
 📧 **Email**  
 faridabelal2004@gmail.com
