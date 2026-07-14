@@ -4,4 +4,4 @@ I'm a Computer Science graduate interested in software engineering, full-stack w
 
 I enjoy building software that solves real-world problems, learning new technologies, and turning ideas into products people can use.
 
-Currently looking for entry-level Software Engineer and Software Developer opportunities.
+Currently looking for Software Engineer and Software Developer opportunities.
