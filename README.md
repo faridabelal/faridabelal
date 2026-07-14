@@ -1,7 +1,5 @@
 # Hi, I'm Farida Belal ✨
 
-> Building software that's (hopefully) as fun to use as it is to build.
-
 I'm a Computer Science graduate interested in software engineering, full-stack web development, deep learning, and data science. I love taking an idea from a blank page to a working product, learning new technologies along the way, and building software that people actually enjoy using.
 
 🌱 Currently looking for Software Engineer and Software Developer opportunities.
